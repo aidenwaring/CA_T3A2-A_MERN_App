@@ -4,7 +4,7 @@
 
 ---
 
-#### MERN Stack Application by Aidon Waring & Alexander Little
+#### MERN Stack Application by Aiden Waring & Alexander Little
 
 #### Deployable Link -
 
@@ -12,12 +12,12 @@
 
 #### Purpose
 
-Equipped is a peer 2 peer tendering site for people who have unused technology or equipment laying around that they want to rent out in order to make some extra cash.  
+Equipped is a peer 2 peer tendering site for people who have unused technology or equipment laying around that they want to rent out to make some extra cash.  
 
 How it works
-If you want to hire a drone, a vr headset or even both for the weekend, you can send a quote request for the item you want to hire and the timeframe you need it for.  Lets say 3 people in your area have the item your looking for, all three will have the option to name their price and send you a quote once you have received the quotes you can then make an educated decision on who you should rent the equipment from.  The renter will then pay the product owner through the site and the site will take a 5-10% commission. This makes for a more sustainable business model as people are not buying things they are only going to use a few times.
+If you want to hire a drone, a vr headset or even both for the weekend, you can send a quote request for the item you want to hire and the timeframe you need it for.  Lets say 3 people in your area have the item your looking for, all three will have the option to name their price and send you a quote once you have received the quotes you can then make an educated decision on who you should rent the equipment from.  The renter will then pay the product owner through the site and the site will take a 5-10% commission. This makes for a more sustainable business model as people are not buying things, they are only going to use a few times.
 
-TL;DR  - A user requests a quote, Lenders tender for the quote
+TL; DR  - A user requests a quote, Lenders tender for the quote
 
 #### Functionality and features
 
@@ -48,17 +48,16 @@ An Authenticated Lender can
 
 #### Target Audience
 
-lorem
-
+The target audence for Equipped is individuals who are looking to rent out their unused equipment for profit. We need users who are not willing to spend exesive amounts of money on purchasing new equipment................................
 
 #### Tech Stack
 
-* MongoDb is used for the database, This was chosen because a user may have multiple items they are looking to rent out.
+* MongoDb is used for the database, this was chosen because a user may have multiple items they are looking to rent out.
 * Express will be used to help facilitate CRUD requests with Node.js
 * Node.js is used for the back end and will help with creating a server.
 * React is used to create the UI.
-* HTML/Css used for styling the UI components. 
-* Heroku will be used to host the server side of the applicaiton in order to make api calls
+* HTML/CSS used for styling the UI components. 
+* Heroku will be used to host the server side of the application to make Api calls
 * Netlify will be used to host the client side of the website
 * Bootstrap reacts framework will be utalised to streamline the design process of the UI
 * ... 
@@ -71,9 +70,9 @@ lorem
 
 ## R3
 
-#### Application Archiecture Diagram
+#### Application Architecture Diagram
 
-*Shows almost flawless understanding of the high level structure of the app*
+*Shows almost flawless understanding of the high-level structure of the app*
 
 ## R4
 
@@ -86,3 +85,4 @@ lorem
 ## R6
 
 #### Screenshots of your Trello board demonstrating use throughout the initial stages of the project
+
