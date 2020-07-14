@@ -17,9 +17,9 @@ The original vision of the application was to provide a service to users seeking
 
 Acquiring new equipment and tech hardware can often be expensive and a large commitment. The concept originates from the demand to easily acquire hardware without the commitment and concern of purchasing an expensive piece of equipment for what may be a one-time need for it. There is also a demand for existing product owners to make the most out of their purchases.
 
-Introducing Equipped - a peer-to-peer tendering platform for owner's to list their purchased equipment and have it lent out or rented to another user. Equipment owners who lend out their tools to users can place a tender or rent offer to generate an income for a allotted period of time. Equipped allows equipment owners to rent out their unused hardware to those who need it. Instead of selling a unused item, Equipped not only allows the owner to keep the item after it has been returned but also allow them to generate an a repeatable income, as lending out the item can result in more of an income than simply selling it. 
+Introducing Equipped - a peer-to-peer tendering platform for owner's to list their purchased equipment and have it lent out or rented to another user. Equipment owners who lend out their tools to users can place a tender or rent offer to generate an income for a allotted period of time. Equipped allows equipment owners to rent out their unused hardware to those who need it. Instead of selling a unused item, Equipped not only allows the owner to keep the item after it has been returned but also allow them to generate an a repeatable income, as lending out the item can result in more of an income than simply selling it.
 
-Renters state how long they want to rent equipment for and the platform will provide them with a list of available tenders and their advertised costs. For example, a renter may be looking for a drone and a VR headset - the drone for the weekend and the headset for three weeks. If a group of lenders who own those pieces of equipment have listed that they are available for this time period, our drone searching friend will have the choice to pick from which lender they would like to rent from, with each tender / equipment listing showing the item, condition, availability and price. 
+Renters state how long they want to rent equipment for and the platform will provide them with a list of available tenders and their advertised costs. For example, a renter may be looking for a drone and a VR headset - the drone for the weekend and the headset for three weeks. If a group of lenders who own those pieces of equipment have listed that they are available for this time period, our drone searching friend will have the choice to pick from which lender they would like to rent from, with each tender / equipment listing showing the item, condition, availability and price.
 
 Equipped users will be able to list their own equipment and tender them to available renters for a set price. Users who are searching to rent the available equipment will be able to view a list of available tenders of items to rent within their search filters. These users will be provided with the options to either deny or accept the tender. Denying the listing will remove the tender from their search and accepting a given tender will direct them to a payment gateway to complete the transaction, where the Equipped platform takes an 8% commission. Once the transaction has been completed, delivery instructions will be provided depending whether the listing is a drop-off or shipment arrangement.
 
@@ -72,7 +72,7 @@ The target audience for this application is any individuals looking to acquire t
 
 #### Dataflow Diagram
 
-*HD Provides dataflow diagram(s) that strictly follow the standard convensions to clearly identify the processes within your application. Clearly depicts where data is coming from, where it is going and how it is being*
+![Data Flow Diagram](./docs/DFD/equipped-dfd.png)
 
 ## R3
 
@@ -86,7 +86,27 @@ The target audience for this application is any individuals looking to acquire t
 
 ## R5
 
-#### Wireframes for multiple standard screen sizes, created using industry standard software
+##### Desktop Wireframe 
+
+[Link To Desktop](https://xd.adobe.com/view/4879c0bc-ca88-400b-8dac-c6e975d3a069-1d2a/)
+
+![Desktop Wireframes](./docs/wireframes/equiped-wireframes-desktop.png)
+
+##### Mobile Wireframes
+
+[Mobile Wireframes XD link](https://xd.adobe.com/view/9969e417-1bb0-4aa3-ac64-84d3a211d9ec-cc3a/)
+
+![Mobile Wireframes](./docs/wireframes/equiped-wireframes-mobile.png)
+
+##### Ipad Wireframes
+
+[Ipad Wireframes XD link](https://xd.adobe.com/view/ca7c010e-4c3a-4b6c-aea4-5d078954395b-9f2f/)
+
+![Ipad Wireframes](./docs/wireframes/equiped-wireframes-ipad.png)
+
+##### Color Scheme
+
+![Color Scheme](./docs/Equipped-colors.png)
 
 ## R6
 
