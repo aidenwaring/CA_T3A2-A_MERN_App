@@ -102,7 +102,7 @@ The target audience for this application is any individuals looking to acquire t
 
 [Ipad Wireframes XD link](https://xd.adobe.com/view/ca7c010e-4c3a-4b6c-aea4-5d078954395b-9f2f/)
 
-![Ipad Wireframes](./docs/wireframes/equiped-wireframes-ipad.png)
+![Ipad Wireframes](./docs/wireframes/ipads-wireframes.png)
 
 ##### Color Scheme
 
