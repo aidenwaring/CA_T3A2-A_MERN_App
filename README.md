@@ -79,7 +79,7 @@ The target audience for this application is any individuals looking to acquire t
 
 #### Application Architecture Diagram
 
-*Shows almost flawless understanding of the high-level structure of the app*
+![Application Architecture Diagram](./docs/AAD/equipped-aad.png)
 
 ## R4
 
