@@ -1,17 +1,18 @@
-## Equipped
+# Equipped
 
 ## T3A2-A - Full Stack App (Part A)
 
 ---
 
-#### MERN Stack Application by Aiden Waring & Alexander Little
+### MERN Stack Application by Aiden Waring & Alexander Little
 
 #### Deployable Link:
+
 [www.alexandaidenchangetheworld.com.au](www.alexandaidenchangetheworld.com.au)
 
 ## R1
 
-#### Purpose
+### Purpose
 
 The original vision of the application was to provide a service to users seeking to acquire technology equipment in a convenient, cost-effective format.
 
@@ -86,6 +87,8 @@ The target audience for this application is any individuals looking to acquire t
 
 ## R5
 
+![User Stories](./docs/Trello-screenshots/user-stories.png)
+
 ##### Desktop Wireframe 
 
 [Link To Desktop](https://xd.adobe.com/view/4879c0bc-ca88-400b-8dac-c6e975d3a069-1d2a/)
@@ -110,5 +113,6 @@ The target audience for this application is any individuals looking to acquire t
 
 ## R6
 
-#### Screenshots of your Trello board demonstrating use throughout the initial stages of the project
+#### Screenshots of your Trello board 
 
+[Screenshots For Trello](./docs/Trello-screenshots)
