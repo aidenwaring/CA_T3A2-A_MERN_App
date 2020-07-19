@@ -10,8 +10,6 @@
 
 [www.alexandaidenchangetheworld.com.au](www.alexandaidenchangetheworld.com.au)
 
-## R1
-
 ### Purpose
 
 The original vision of the application was to provide a service to users seeking to acquire technology equipment in a convenient, cost-effective format.
@@ -69,27 +67,19 @@ The target audience for this application is any individuals looking to acquire t
 * Stripe - used as the payment gateway for equipment renting purchases
 * Bootstrap - React Bootstrap framework used to streamline the design process of the UI
 
-## R2
-
 #### Dataflow Diagram
 
 ![Data Flow Diagram](./docs/DFD/equipped-dfd.png)
-
-## R3
 
 #### Application Architecture Diagram
 
 ![Application Architecture Diagram](./docs/AAD/equipped-aad.png)
 
-## R4
-
 #### User Stories
-
-## R5
 
 ![User Stories](./docs/Trello-screenshots/user-stories.png)
 
-##### Desktop Wireframe 
+##### Desktop Wireframe
 
 [Link To Desktop](https://xd.adobe.com/view/4879c0bc-ca88-400b-8dac-c6e975d3a069-1d2a/)
 
@@ -110,8 +100,6 @@ The target audience for this application is any individuals looking to acquire t
 ##### Color Scheme
 
 ![Color Scheme](./docs/Equipped-colors.png)
-
-## R6
 
 #### Screenshots of your Trello board 
 
