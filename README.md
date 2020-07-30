@@ -8,7 +8,11 @@
 
 #### Deployable Link:
 
-[www.alexandaidenchangetheworld.com.au](www.alexandaidenchangetheworld.com.au)
+[Front End Link](https://equippedvr.com/)
+[Back End Link](https://rocky-badlands-48514.herokuapp.com/)
+
+[Front end github link](https://github.com/alex1092/equipped-frontend)
+[Back end github link](https://github.com/alex1092/equipped-backend)
 
 ### Purpose
 
@@ -16,7 +20,7 @@ The original vision of the application was to provide a service to users seeking
 
 Acquiring new equipment and tech hardware can often be expensive and a large commitment. The concept originates from the demand to easily acquire hardware without the commitment and concern of purchasing an expensive piece of equipment for what may be a one-time need for it. There is also a demand for existing product owners to make the most out of their purchases.
 
-Introducing Equipped - a peer-to-peer tendering platform for owner's to list their purchased equipment and have it lent out or rented to another user. Equipment owners who lend out their tools to users can place a tender or rent offer to generate an income for a allotted period of time. Equipped allows equipment owners to rent out their unused hardware to those who need it. Instead of selling a unused item, Equipped not only allows the owner to keep the item after it has been returned but also allow them to generate an a repeatable income, as lending out the item can result in more of an income than simply selling it.
+Introducing Equipped - a peer-to-peer renting platform for owner's to list their purchased equipment and have it lent out or rented to another user. Equipment owners who lend out their tools to users can place a tender or rent offer to generate an income for a allotted period of time. Equipped allows equipment owners to rent out their unused hardware to those who need it. Instead of selling a unused item, Equipped not only allows the owner to keep the item after it has been returned but also allow them to generate an a repeatable income, as lending out the item can result in more of an income than simply selling it.
 
 Renters state how long they want to rent equipment for and the platform will provide them with a list of available tenders and their advertised costs. For example, a renter may be looking for a drone and a VR headset - the drone for the weekend and the headset for three weeks. If a group of lenders who own those pieces of equipment have listed that they are available for this time period, our drone searching friend will have the choice to pick from which lender they would like to rent from, with each tender / equipment listing showing the item, condition, availability and price.
 
